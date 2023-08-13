@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Westerly Creek - 2023-08-11</title>
+<meta charset="utf-8">
+<meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, minimal-ui" />
+<style> @-ms-viewport { width: device-width; } </style>
+<link rel="stylesheet" href="vendor/reset.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body class="multiple-scenes view-control-buttons">
+
+<div id="pano"></div>
+
+<div id="sceneList">
+  <ul class="scenes">
+    
+      <a href="javascript:void(0)" class="scene" data-id="0-montview_bridge_dji_20230811125840_0011_d">
+        <li class="text">Montview_Bridge_DJI_20230811125840_0011_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="1-ped_bridge_dji_20230811130010_0012_d">
+        <li class="text">Ped_Bridge_DJI_20230811130010_0012_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="2-easterly_creek_confluence_dji_20230811130140_0013_d">
+        <li class="text">Easterly_Creek_Confluence_DJI_20230811130140_0013_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="3-easterly_creek_outfall_dji_20230811130310_0014_d">
+        <li class="text">Easterly_Creek_Outfall_DJI_20230811130310_0014_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="4-mid-2201_dji_20230811130435_0015_d">
+        <li class="text">Mid 2201_DJI_20230811130435_0015_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="5-flpncorner_dji_20230811130556_0016_d">
+        <li class="text">FlpnCorner_DJI_20230811130556_0016_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="6-23rdave_outfall_dji_20230811130721_0017_d">
+        <li class="text">23rdAve_Outfall_DJI_20230811130721_0017_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="7-sw_dji_20230811130851_0018_d">
+        <li class="text">SW_DJI_20230811130851_0018_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="8-mw1_dji_20230811131014_0019_d">
+        <li class="text">MW1_DJI_20230811131014_0019_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="9-mw2_dji_20230811131140_0020_d">
+        <li class="text">MW2_DJI_20230811131140_0020_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="10-nw_dji_20230811131302_0021_d">
+        <li class="text">NW_DJI_20230811131302_0021_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="11-n_dji_20230811131425_0022_d">
+        <li class="text">N_DJI_20230811131425_0022_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="12-ne_dji_20230811131545_0023_d">
+        <li class="text">NE_DJI_20230811131545_0023_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="13-me1_dji_20230811131702_0024_d">
+        <li class="text">ME1_DJI_20230811131702_0024_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="14-me2_dji_20230811131830_0025_d">
+        <li class="text">ME2_DJI_20230811131830_0025_D</li>
+      </a>
+    
+      <a href="javascript:void(0)" class="scene" data-id="15-se_dji_20230811131957_0026_d">
+        <li class="text">SE_DJI_20230811131957_0026_D</li>
+      </a>
+    
+  </ul>
+</div>
+
+<div id="titleBar">
+  <h1 class="sceneName"></h1>
+</div>
+
+<a href="javascript:void(0)" id="autorotateToggle">
+  <img class="icon off" src="img/play.png">
+  <img class="icon on" src="img/pause.png">
+</a>
+
+<a href="javascript:void(0)" id="fullscreenToggle">
+  <img class="icon off" src="img/fullscreen.png">
+  <img class="icon on" src="img/windowed.png">
+</a>
+
+<a href="javascript:void(0)" id="sceneListToggle">
+  <img class="icon off" src="img/expand.png">
+  <img class="icon on" src="img/collapse.png">
+</a>
+
+<a href="javascript:void(0)" id="viewUp" class="viewControlButton viewControlButton-1">
+  <img class="icon" src="img/up.png">
+</a>
+<a href="javascript:void(0)" id="viewDown" class="viewControlButton viewControlButton-2">
+  <img class="icon" src="img/down.png">
+</a>
+<a href="javascript:void(0)" id="viewLeft" class="viewControlButton viewControlButton-3">
+  <img class="icon" src="img/left.png">
+</a>
+<a href="javascript:void(0)" id="viewRight" class="viewControlButton viewControlButton-4">
+  <img class="icon" src="img/right.png">
+</a>
+<a href="javascript:void(0)" id="viewIn" class="viewControlButton viewControlButton-5">
+  <img class="icon" src="img/plus.png">
+</a>
+<a href="javascript:void(0)" id="viewOut" class="viewControlButton viewControlButton-6">
+  <img class="icon" src="img/minus.png">
+</a>
+
+<script src="vendor/screenfull.min.js" ></script>
+<script src="vendor/bowser.min.js" ></script>
+<script src="vendor/marzipano.js" ></script>
+
+<script src="data.js"></script>
+<script src="index.js"></script>
+
+</body>
+</html>
