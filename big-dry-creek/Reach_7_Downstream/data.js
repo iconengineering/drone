@@ -1,38 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-april-21st-2023",
-      "name": "April 21st, 2023",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -0.8341537462576092,
-        "pitch": 0.45920994791518766,
-        "fov": 1.3847873111060733
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "1-june-25th-2021",
+      "id": "0-june-25th-2021",
       "name": "June 25th, 2021",
       "levels": [
         {
@@ -55,8 +24,39 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.034375117186037585,
-        "pitch": 1.026427829929112,
+        "yaw": -0.04847744504716189,
+        "pitch": 1.1495264833905257,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-april-21st-2023",
+      "name": "April 21st, 2023",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -0.6995168827437794,
+        "pitch": 0.621610271237909,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -86,8 +86,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.7840129814513723,
-        "pitch": 0.4112282760881367,
+        "yaw": -0.5152897987088547,
+        "pitch": 0.5948463866215121,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
