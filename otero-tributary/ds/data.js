@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.2953949447634976,
-        "pitch": 0.48977076481526716,
-        "fov": 1.5707963267948966
+        "yaw": 0.5374505950585586,
+        "pitch": 0.5814568536993132,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -55,9 +55,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.036896540802486,
-        "pitch": 0.5603683525363827,
-        "fov": 1.5707963267948966
+        "yaw": 1.4807595003031269,
+        "pitch": 0.5565926899611604,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -86,9 +86,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.042199277823353754,
-        "pitch": 0.4390287486407054,
-        "fov": 1.5707963267948966
+        "yaw": 0.3449072464049401,
+        "pitch": 0.5355531037426644,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -117,9 +117,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.14066425941119043,
-        "pitch": 0.6839141310483381,
-        "fov": 1.5707963267948966
+        "yaw": 0.40585831018597673,
+        "pitch": 0.6369187071244724,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -148,9 +148,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.444097161855332,
-        "pitch": 0.650821511804061,
-        "fov": 1.5707963267948966
+        "yaw": 0.5762356895473406,
+        "pitch": 0.5145135175242075,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -179,19 +179,50 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.9705833899372092,
-        "pitch": 0.668482384881953,
-        "fov": 1.5707963267948966
+        "yaw": 1.4890686408766536,
+        "pitch": 0.6005818579289475,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-nov-19th-2023",
+      "name": "Nov 19th, 2023",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.3088946661899694,
+        "pitch": 0.5546800003049306,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Otero Tributary - Downstream",
+  "name": "Downstream End of Project Site",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
