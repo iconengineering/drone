@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.275010064926473,
-        "pitch": 0.9252105495548548,
+        "yaw": -1.4253522224620632,
+        "pitch": 0.9153207083647228,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -55,8 +55,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.3658563933712493,
-        "pitch": 1.0443273277018061,
+        "yaw": 1.3578394536490705,
+        "pitch": 1.0230401290425313,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -86,8 +86,39 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.1787898360691784,
-        "pitch": 0.920003724643621,
+        "yaw": -1.297927360063479,
+        "pitch": 0.9295507734049675,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-dec-2nd-2023",
+      "name": "Dec 2nd, 2023",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -0.7372883984337548,
+        "pitch": 0.7268220693650669,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
