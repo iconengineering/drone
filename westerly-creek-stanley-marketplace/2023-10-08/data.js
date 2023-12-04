@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-flpncorner",
-      "name": "FlpnCorner",
+      "id": "0-montview_bridge",
+      "name": "Montview_Bridge",
       "levels": [
         {
           "tileSize": 256,
@@ -24,16 +24,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.9022139138984411,
-        "pitch": 0.6735470730647926,
-        "fov": 1.352817585576841
+        "yaw": 0.02631845697451496,
+        "pitch": 0.5718889685899846,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "1-me",
-      "name": "ME",
+      "id": "1-ped_bridge",
+      "name": "Ped_Bridge",
       "levels": [
         {
           "tileSize": 256,
@@ -55,15 +55,77 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0,
-        "pitch": 0,
-        "fov": 1.352817585576841
+        "yaw": -0.49174020004999974,
+        "pitch": 0.524076965805353,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "2-mid",
+      "id": "2-easterly_creek_confluence",
+      "name": "Easterly_Creek_Confluence",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 1.155270067269626,
+        "pitch": 0.5241160765973092,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "3-easterly_creek_outfall",
+      "name": "Easterly_Creek_Outfall",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.1676070154693079,
+        "pitch": 0.6598804441009278,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-mid",
       "name": "Mid",
       "levels": [
         {
@@ -86,16 +148,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.0774021071067015,
-        "pitch": 0.07176395522739654,
-        "fov": 1.352817585576841
+        "yaw": -1.094293737361518,
+        "pitch": 0.5527673106487043,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "3-mide2",
-      "name": "MidE2",
+      "id": "5-flpncorner",
+      "name": "FlpnCorner",
       "levels": [
         {
           "tileSize": 256,
@@ -117,16 +179,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.226022614685311,
-        "pitch": 0.49183931362719946,
-        "fov": 1.352817585576841
+        "yaw": -0.705057610527863,
+        "pitch": 1.2016464900430837,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "4-montview-bridge",
-      "name": "Montview Bridge",
+      "id": "6-sw",
+      "name": "SW",
       "levels": [
         {
           "tileSize": 256,
@@ -148,15 +210,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.010077109757112623,
-        "pitch": 0.662547014946929,
-        "fov": 1.352817585576841
+        "yaw": 0.937768177460466,
+        "pitch": 0.3672364139949629,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "5-mw1",
+      "id": "7-mw1",
       "name": "MW1",
       "levels": [
         {
@@ -179,15 +241,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.4200611148015163,
-        "pitch": 0.5327647596290248,
-        "fov": 1.352817585576841
+        "yaw": 0.7479982508547423,
+        "pitch": 0.6809240202458682,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "6-mw2",
+      "id": "8-mw2",
       "name": "MW2",
       "levels": [
         {
@@ -210,71 +272,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.14365402304876795,
-        "pitch": 0.40977462135730036,
-        "fov": 1.352817585576841
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "7-n",
-      "name": "N",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": -0.3463990462828832,
-        "pitch": 0.24698744300988196,
-        "fov": 1.352817585576841
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "8-ne",
-      "name": "NE",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": 0.3953167029510052,
-        "pitch": 0.49210376902725983,
-        "fov": 1.352817585576841
+        "yaw": -0.055407277841098335,
+        "pitch": 0.7000444141779312,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -303,16 +303,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.6135747952241637,
-        "pitch": 0.41162130324979884,
-        "fov": 1.352817585576841
+        "yaw": 0.33485646838684247,
+        "pitch": 0.44978469410135347,
+        "fov": 1.1262349761207604
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "10-ped_bridge",
-      "name": "Ped_Bridge",
+      "id": "10-n",
+      "name": "N",
       "levels": [
         {
           "tileSize": 256,
@@ -334,108 +334,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.17856060808865237,
-        "pitch": 0.5145571729372467,
-        "fov": 1.352817585576841
+        "yaw": 0.1543861365225645,
+        "pitch": 0.3863528395443563,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "11-residential",
-      "name": "Residential",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": 0.40290848135895097,
-        "pitch": 0.39893628299454953,
-        "fov": 1.352817585576841
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "12-se",
-      "name": "SE",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": 2.095737255921879,
-        "pitch": 0.6661182171678917,
-        "fov": 1.352817585576841
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "13-sw",
-      "name": "SW",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": 0.3038079274159067,
-        "pitch": 0.6770267207729539,
-        "fov": 1.352817585576841
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "14-tie-in",
+      "id": "11-tie-in",
       "name": "Tie-In",
       "levels": [
         {
@@ -458,16 +365,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.29130972528679067,
-        "pitch": 0.4359442555523323,
-        "fov": 1.352817585576841
+        "yaw": -0.09142200843780657,
+        "pitch": 0.8860534298667844,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "15-easterly_creek_confluence",
-      "name": "Easterly_Creek_Confluence",
+      "id": "12-ne",
+      "name": "NE",
       "levels": [
         {
           "tileSize": 256,
@@ -489,16 +396,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.7706299928036451,
-        "pitch": 0.6286953094796974,
-        "fov": 1.352817585576841
+        "yaw": 0.36430285180516364,
+        "pitch": 0.6330943351598037,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "16-easterly_creek_outfall",
-      "name": "Easterly_Creek_Outfall",
+      "id": "13-me",
+      "name": "ME",
       "levels": [
         {
           "tileSize": 256,
@@ -520,18 +427,111 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.18258829097787554,
-        "pitch": 0.6361797774496836,
-        "fov": 1.352817585576841
+        "yaw": 0.9561200385449204,
+        "pitch": 0.4611983296150157,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "14-mide2",
+      "name": "MidE2",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 1.2009527472056227,
+        "pitch": 0.4437440002439441,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "15-se",
+      "name": "SE",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.944721756248672,
+        "pitch": 0.1358009655918817,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "16-residential",
+      "name": "Residential",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.28812919870020437,
+        "pitch": 0.40931558643190336,
+        "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "October 8th, 2023",
   "settings": {
     "mouseViewMode": "drag",
-    "autorotateEnabled": true,
+    "autorotateEnabled": false,
     "fullscreenButton": false,
     "viewControlButtons": false
   }
