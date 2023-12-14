@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-may-20th-2023",
-      "name": "May 20th, 2023",
+      "id": "0-may-12th-2023",
+      "name": "May 12th, 2023",
       "levels": [
         {
           "tileSize": 256,
@@ -24,15 +24,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.1169421581452763,
-        "pitch": 0.2907288277460207,
-        "fov": 1.3847873111060733
+        "pitch": 0,
+        "yaw": 0,
+        "fov": 1.5707963267948966
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Reach 2 - Vasquez Blvd",
+  "name": "Reach 2 - Near RailRoad",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
