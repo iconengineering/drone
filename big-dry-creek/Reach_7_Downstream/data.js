@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.11219973762820956,
-        "pitch": 1.1265742075158336,
+        "yaw": 0.08865164454573815,
+        "pitch": 1.2316121585905382,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -55,8 +55,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.3352140309385767,
-        "pitch": 0.545116552023817,
+        "yaw": -0.4792729533254505,
+        "pitch": 0.8779258618619998,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -86,8 +86,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.03601473059671534,
-        "pitch": 0.7306487519674825,
+        "yaw": -0.5416061408966399,
+        "pitch": 0.5718942072109563,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -117,15 +117,46 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.09973310011395142,
-        "pitch": 0.8186311728638067,
+        "yaw": -0.5166728658681592,
+        "pitch": 0.7096078624590518,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-dec-23rd-2023",
+      "name": "Dec 23rd, 2023",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -0.6510355146327989,
+        "pitch": 0.5967591727418373,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Reach 7 -  Downstream",
+  "name": "Reach 7 - Downstream",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,

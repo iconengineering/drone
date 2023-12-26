@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.13436264876463966,
-        "pitch": 0.45713282783749953,
+        "yaw": 0.07479982508546712,
+        "pitch": 0.3959267588383355,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -55,8 +55,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.6140098254293207,
-        "pitch": 0.3360266441660791,
+        "yaw": -0.7216797938801953,
+        "pitch": 0.3710617933074296,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -86,8 +86,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.15513849767002696,
-        "pitch": 0.3710617933074296,
+        "yaw": -0.26734011558326287,
+        "pitch": 0.3270699312142753,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -117,8 +117,39 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.030474002812596268,
-        "pitch": 0.4666962761186184,
+        "yaw": -0.1121997376281989,
+        "pitch": 0.32898262087050156,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "4-dec-23rd-2023",
+      "name": "Dec 23rd, 2023",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -0.0872664625997146,
+        "pitch": 0.21039586218462958,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
