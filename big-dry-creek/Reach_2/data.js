@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.07479982508546712,
-        "pitch": 0.3959267588383355,
+        "yaw": 0.10527610756608219,
+        "pitch": 0.4896485519933087,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -55,8 +55,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.7216797938801953,
-        "pitch": 0.3710617933074296,
+        "yaw": -0.6496499488875855,
+        "pitch": 0.3882760002134482,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -86,8 +86,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.26734011558326287,
-        "pitch": 0.3270699312142753,
+        "yaw": -0.1121997376281918,
+        "pitch": 0.3959267588383444,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -117,8 +117,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.1121997376281989,
-        "pitch": 0.32898262087050156,
+        "yaw": -0.1329774668186019,
+        "pitch": 0.4858258641699873,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
@@ -148,8 +148,43 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.0872664625997146,
-        "pitch": 0.21039586218462958,
+        "yaw": -0.15375519600901555,
+        "pitch": 0.4054902071194526,
+        "fov": 1.3847873111060733
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-feb-18th-2024",
+      "name": "Feb 18th, 2024",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
+        }
+      ],
+      "faceSize": 3000,
+      "initialViewParameters": {
+        "yaw": 0.3324436670465385,
+        "pitch": 0.28690344843358595,
         "fov": 1.3847873111060733
       },
       "linkHotspots": [],
