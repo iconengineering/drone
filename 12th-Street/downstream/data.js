@@ -1,69 +1,7 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-july-2-2023",
-      "name": "July 2, 2023",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": 0.10804419179012115,
-        "pitch": 0.3519348967451865,
-        "fov": 1.3847873111060733
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "1-aug-19-2023",
-      "name": "Aug 19, 2023",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 2048,
-      "initialViewParameters": {
-        "yaw": 0.8006351648037366,
-        "pitch": 0.5011246899306556,
-        "fov": 1.3847873111060733
-      },
-      "linkHotspots": [],
-      "infoHotspots": []
-    },
-    {
-      "id": "2-nov-11-2022",
+      "id": "0-nov-11-2022",
       "name": "Nov 11, 2022",
       "levels": [
         {
@@ -86,9 +24,71 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.07202946119340936,
-        "pitch": 0.22378468977819743,
-        "fov": 1.3847873111060733
+        "yaw": 0.15825815082392047,
+        "pitch": 0.7229097768429362,
+        "fov": 1.4863555592981923
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "1-july-2-2023",
+      "name": "July 2, 2023",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.2676919785213201,
+        "pitch": 0.779210641692698,
+        "fov": 1.4863555592981923
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-aug-19-2023",
+      "name": "Aug 19, 2023",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.5540943072341733,
+        "pitch": 0.7026408098500472,
+        "fov": 1.4863555592981923
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -121,9 +121,9 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": -0.11774046541231087,
-        "pitch": 0.3634110346825352,
-        "fov": 1.3847873111060733
+        "yaw": -0.01851776634232749,
+        "pitch": 0.7161531331164017,
+        "fov": 1.4863555592981923
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -152,19 +152,19 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.006925909730139068,
-        "pitch": 0.40166482780701074,
-        "fov": 1.3847873111060733
+        "yaw": 0.30473270223120963,
+        "pitch": 0.7409257257713762,
+        "fov": 1.4863555592981923
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Downstream",
+  "name": "Downstream Limits",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
