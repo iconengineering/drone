@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.2368661127706453,
-        "pitch": 1.3790492421374,
-        "fov": 1.3847873111060733
+        "yaw": 0.6226249105916022,
+        "pitch": 1.0420798486769076,
+        "fov": 1.4863555592981923
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -55,9 +55,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.4335619491065188,
-        "pitch": 1.1361376557969507,
-        "fov": 1.3847873111060733
+        "yaw": 0.7522682658464852,
+        "pitch": 0.9317488687198221,
+        "fov": 1.4863555592981923
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -86,9 +86,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.29227339061174895,
-        "pitch": 1.1246615178596322,
-        "fov": 1.3847873111060733
+        "yaw": 0.8648949311884078,
+        "pitch": 0.8832571457275904,
+        "fov": 1.4863555592981923
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -121,9 +121,9 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 0.3587621240210481,
-        "pitch": 1.176304138577665,
-        "fov": 1.3847873111060733
+        "yaw": 0.7523734450746442,
+        "pitch": 0.8518101625645187,
+        "fov": 1.4863555592981923
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -152,19 +152,19 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.1303084679582227,
-        "pitch": 1.2164706213583685,
-        "fov": 1.3847873111060733
+        "yaw": 1.474054592830056,
+        "pitch": 1.0348750676773495,
+        "fov": 1.4863555592981923
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "12th St",
+  "name": "12th Street",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": false,
-    "viewControlButtons": false
+    "fullscreenButton": true,
+    "viewControlButtons": true
   }
 };
