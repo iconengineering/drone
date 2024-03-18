@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.016622183352325237,
-        "pitch": 1.2049944834210287,
-        "fov": 1.3847873111060733
+        "yaw": -0.10301699998573355,
+        "pitch": 1.2923497202503533,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -55,9 +55,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.0347312166291402,
-        "pitch": 0.5489419313362411,
-        "fov": 1.3847873111060733
+        "yaw": -0.9053009089654935,
+        "pitch": 0.4401324589834239,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -86,9 +86,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.4612655880270644,
-        "pitch": 0.8090677245826896,
-        "fov": 1.3847873111060733
+        "yaw": -0.376168136311513,
+        "pitch": 0.7184443481792044,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -117,9 +117,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.073534227451436,
-        "pitch": 0.5355521466190609,
-        "fov": 1.3847873111060733
+        "yaw": 0.755457999895345,
+        "pitch": 0.5631106460523192,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -148,9 +148,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.6385688771185531,
-        "pitch": 0.6101480003354212,
-        "fov": 1.3847873111060733
+        "yaw": 0.5291327726539663,
+        "pitch": 0.6623562005289596,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -179,9 +179,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.736916795286497,
-        "pitch": 0.7402108969586436,
-        "fov": 1.3847873111060733
+        "yaw": 0.6696104999072432,
+        "pitch": 0.6386235679367296,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -214,15 +214,46 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 0.5637690520330771,
-        "pitch": 0.5795449658358116,
-        "fov": 1.3847873111060733
+        "yaw": 0.21852090906064703,
+        "pitch": 0.5717406942676693,
+        "fov": 1.3808077144578041
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-mar-16-2024",
+      "name": "Mar 16, 2024",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.8116480942454594,
+        "pitch": 0.7055046602552526,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Reach 7 - Mid Oxbow",
+  "name": "Reach 7- Mid Oxbow",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,

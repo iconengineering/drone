@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 2.888996634407082,
-        "pitch": 1.2949016665537485,
-        "fov": 1.5707963267948966
+        "yaw": -0.05775195453747273,
+        "pitch": 1.1305344404833697,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -55,9 +55,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.01719852070419492,
-        "pitch": 0.8736431570052297,
-        "fov": 1.5707963267948966
+        "yaw": -0.10769959089415337,
+        "pitch": 0.7357116103595605,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -86,9 +86,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.256455246707592,
-        "pitch": 1.1042586452332515,
-        "fov": 1.5707963267948966
+        "yaw": 0.4791851362972448,
+        "pitch": 0.8845799420745202,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -117,9 +117,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.9504414581043363,
-        "pitch": 1.0363572350435355,
-        "fov": 1.5707963267948966
+        "yaw": 0.6508801362734715,
+        "pitch": 0.8349571648362009,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -148,9 +148,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.9321317323085232,
-        "pitch": 0.9707042608298426,
-        "fov": 1.5707963267948966
+        "yaw": 0.755457999895345,
+        "pitch": 0.6860888331212163,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -183,19 +183,50 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 1.3487265340606456,
-        "pitch": 1.0537296356741948,
-        "fov": 1.5707963267948966
+        "yaw": 1.1253826816622787,
+        "pitch": 0.8241696045669986,
+        "fov": 1.3808077144578041
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "6-mar-16-2024",
+      "name": "Mar 16, 2024",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.8943724347897515,
+        "pitch": 0.7723881962365482,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Reach 7 - Downstream",
+  "name": "Reach 7- Downstream",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
