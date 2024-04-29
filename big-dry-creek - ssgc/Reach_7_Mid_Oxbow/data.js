@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.10301699998573355,
-        "pitch": 1.2923497202503533,
+        "yaw": -0.07492145453506893,
+        "pitch": 0.9406752554743747,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -55,8 +55,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.9053009089654935,
-        "pitch": 0.4401324589834239,
+        "yaw": -0.8974965907847547,
+        "pitch": 0.6041033750752831,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -86,8 +86,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.376168136311513,
-        "pitch": 0.7184443481792044,
+        "yaw": -0.4542126778954376,
+        "pitch": 0.6904038572289117,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -117,8 +117,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.755457999895345,
-        "pitch": 0.5631106460523192,
+        "yaw": -0.0639954090820396,
+        "pitch": 0.7702318032209909,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -148,8 +148,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.5291327726539663,
-        "pitch": 0.6623562005289596,
+        "yaw": -0.25598163632816906,
+        "pitch": 0.6860888331212163,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -179,8 +179,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.6696104999072432,
-        "pitch": 0.6386235679367296,
+        "yaw": -0.35743777267776267,
+        "pitch": 0.7443416585748963,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -214,8 +214,8 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 0.21852090906064703,
-        "pitch": 0.5717406942676693,
+        "yaw": -0.7351667726254227,
+        "pitch": 0.7357116103595374,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -245,15 +245,46 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.8116480942454594,
-        "pitch": 0.7055046602552526,
+        "yaw": 0.5915673180998713,
+        "pitch": 0.7227665380365043,
+        "fov": 1.3808077144578041
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "8-apr-26th-2024",
+      "name": "Apr 26th, 2024",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -0.010926045453029332,
+        "pitch": 0.5458505496215871,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Reach 7- Mid Oxbow",
+  "name": "Reach 7 - Mid Oxbow",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,

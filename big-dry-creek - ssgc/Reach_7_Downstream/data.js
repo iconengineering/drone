@@ -24,8 +24,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.05775195453747273,
-        "pitch": 1.1305344404833697,
+        "yaw": 0.06087368180975439,
+        "pitch": 0.7335540983056976,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -55,8 +55,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.10769959089415337,
-        "pitch": 0.7357116103595605,
+        "yaw": -0.24193386360283853,
+        "pitch": 0.7767043393825013,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -86,8 +86,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.4791851362972448,
-        "pitch": 0.8845799420745202,
+        "yaw": 0.41206799994291465,
+        "pitch": 0.7896494117055504,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -117,8 +117,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.6508801362734715,
-        "pitch": 0.8349571648362009,
+        "yaw": 0.5260110453816722,
+        "pitch": 0.7702318032209909,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -148,8 +148,8 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.755457999895345,
-        "pitch": 0.6860888331212163,
+        "yaw": 0.6914625908133019,
+        "pitch": 0.6256784956136876,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -183,8 +183,8 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 1.1253826816622787,
-        "pitch": 0.8241696045669986,
+        "yaw": 1.1425521816598962,
+        "pitch": 0.8781074059130098,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
@@ -214,15 +214,46 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.8943724347897515,
-        "pitch": 0.7723881962365482,
+        "yaw": 0.9646137271391027,
+        "pitch": 0.6343085438290554,
+        "fov": 1.3808077144578041
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "7-apr-26th-2024",
+      "name": "Apr 26th, 2024",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 0.4151897272152141,
+        "pitch": 0.7831768755440223,
         "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Reach 7- Downstream",
+  "name": "Reach 7 - Downstream",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
