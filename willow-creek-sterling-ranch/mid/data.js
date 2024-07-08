@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -2.968863619715318,
-        "pitch": 0.5222977434248328,
-        "fov": 1.3608936558192368
+        "yaw": 2.761209999172923,
+        "pitch": 0.6620203478825211,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -55,9 +55,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.82829974510115,
-        "pitch": 0.5131398650168268,
-        "fov": 1.3608936558192368
+        "yaw": -1.9698639031277096,
+        "pitch": 0.5588329389053648,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -86,9 +86,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.3477232894357982,
-        "pitch": 0.6552530276886515,
-        "fov": 1.3608936558192368
+        "yaw": 0.2809554545065076,
+        "pitch": 0.6666712246366551,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -117,9 +117,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.1522067539673593,
-        "pitch": 0.6056465632548864,
-        "fov": 1.3608936558192368
+        "yaw": 1.003635318042786,
+        "pitch": 0.5760557183753594,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -148,9 +148,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -1.7679924063261403,
-        "pitch": 0.44546743736016126,
-        "fov": 1.3608936558192368
+        "yaw": -2.4600068371947454,
+        "pitch": 0.4012972420142944,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -179,9 +179,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -2.429719446464155,
-        "pitch": 0.5185298025319511,
-        "fov": 1.3608936558192368
+        "yaw": -3.0455008910750294,
+        "pitch": 0.3605371253633578,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -210,9 +210,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -2.39319912635138,
-        "pitch": 0.5791564207628159,
-        "fov": 1.3608936558192368
+        "yaw": -3.039852879744174,
+        "pitch": 0.3828659699662431,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -241,19 +241,50 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -2.6952763697406823,
-        "pitch": 0.3664497410924312,
-        "fov": 1.3608936558192368
+        "yaw": -3.052067322042941,
+        "pitch": 0.45709496754463963,
+        "fov": 1.3808077144578041
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "8-jul-7-2024",
+      "name": "Jul 7, 2024",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": -1.510488075346199,
+        "pitch": 0.26968900673003127,
+        "fov": 1.3808077144578041
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Willow Creek Sterling Ranch - Midreach",
+  "name": "MidStream",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
