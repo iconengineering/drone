@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-may-11th----dji_0313",
-      "name": "May 11th -  DJI_0313",
+      "id": "0-may-11th-2023-dji_0313",
+      "name": "May 11th, 2023 DJI_0313",
       "levels": [
         {
           "tileSize": 256,
@@ -24,16 +24,16 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -2.917816057452278,
-        "pitch": 0.7108877059118655,
-        "fov": 1.5287227611197909
+        "yaw": -3.1187090071071637,
+        "pitch": 0.5598457007275179,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
     },
     {
-      "id": "1-may-12th---dji_0464",
-      "name": "May 12th - DJI_0464",
+      "id": "1-may-12th-2023_dji_0464",
+      "name": "May 12th, 2023_DJI_0464",
       "levels": [
         {
           "tileSize": 256,
@@ -55,19 +55,50 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.610048667527181,
-        "pitch": 0.8418160004991915,
-        "fov": 1.5287227611197909
+        "yaw": 0.632146073277454,
+        "pitch": 0.6023226151250096,
+        "fov": 1.3777350525469603
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "2-may-20th-2023_dji_0602",
+      "name": "May 20th, 2023_DJI_0602",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 2048,
+      "initialViewParameters": {
+        "yaw": 1.1394304543876217,
+        "pitch": 0.5051695148750479,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Sand Creek - Quebec Drop",
+  "name": "Quebec",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };

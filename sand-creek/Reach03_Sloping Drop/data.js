@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": -0.0013823535964405664,
-        "pitch": 0.5642395431388074,
-        "fov": 1.3847873111060733
+        "yaw": -0.04055832770902512,
+        "pitch": 0.5267579556816635,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -55,15 +55,15 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 2.5666675914942143,
-        "pitch": 0.5508546209924745,
-        "fov": 1.3847873111060733
+        "yaw": 2.498942681472009,
+        "pitch": 0.5310756438429891,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "Reach 3- Sloping Drop",
+  "name": "Sloping Drop",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
