@@ -24,9 +24,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.6226249105916022,
-        "pitch": 1.0420798486769076,
-        "fov": 1.4863555592981923
+        "yaw": 0.2918814999595405,
+        "pitch": 1.4356313136406076,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -55,9 +55,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.7522682658464852,
-        "pitch": 0.9317488687198221,
-        "fov": 1.4863555592981923
+        "yaw": 0.35899863631389906,
+        "pitch": 1.0686278199279684,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -86,9 +86,9 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 0.8648949311884078,
-        "pitch": 0.8832571457275904,
-        "fov": 1.4863555592981923
+        "yaw": 0.36524209085848724,
+        "pitch": 1.0880574166539319,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -121,9 +121,9 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 0.7523734450746442,
-        "pitch": 0.8518101625645187,
-        "fov": 1.4863555592981923
+        "yaw": 0.4386026817574198,
+        "pitch": 0.9714798362981636,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
@@ -152,19 +152,54 @@ var APP_DATA = {
       ],
       "faceSize": 2048,
       "initialViewParameters": {
-        "yaw": 1.474054592830056,
-        "pitch": 1.0348750676773495,
-        "fov": 1.4863555592981923
+        "yaw": 1.1534782271129345,
+        "pitch": 1.256447254945611,
+        "fov": 1.3777350525469603
+      },
+      "linkHotspots": [],
+      "infoHotspots": []
+    },
+    {
+      "id": "5-sep-9-2024",
+      "name": "Sep 9, 2024",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        },
+        {
+          "tileSize": 512,
+          "size": 4096
+        }
+      ],
+      "faceSize": 3000,
+      "initialViewParameters": {
+        "yaw": 1.1793914600350952,
+        "pitch": 1.0872074438527832,
+        "fov": 1.3777350525469603
       },
       "linkHotspots": [],
       "infoHotspots": []
     }
   ],
-  "name": "12th Street",
+  "name": "12th",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
-    "fullscreenButton": true,
-    "viewControlButtons": true
+    "fullscreenButton": false,
+    "viewControlButtons": false
   }
 };
