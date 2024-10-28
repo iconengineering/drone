@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-fish-creek--upstream",
-      "name": "Fish Creek- Upstream",
+      "id": "0-trail-creek--upstream",
+      "name": "Trail Creek- Upstream",
       "levels": [
         {
           "tileSize": 256,
@@ -36,8 +36,8 @@ var APP_DATA = {
       "infoHotspots": []
     },
     {
-      "id": "1-fish-creek--downstream",
-      "name": "Fish Creek- Downstream",
+      "id": "1-trail-creek--downstream",
+      "name": "Trail Creek- Downstream",
       "levels": [
         {
           "tileSize": 256,
@@ -138,11 +138,18 @@ var APP_DATA = {
         "fov": 1.3518235013090278
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": -0.30462390376044723,
+          "pitch": 0.10096143282809678,
+          "title": "Title",
+          "text": "Mill Site"
+        }
+      ]
     },
     {
-      "id": "4-upper-washout--looking-east",
-      "name": "Upper Washout- Looking East",
+      "id": "4-upper-washout--east",
+      "name": "Upper Washout- East",
       "levels": [
         {
           "tileSize": 256,
@@ -173,11 +180,24 @@ var APP_DATA = {
         "fov": 1.3518235013090278
       },
       "linkHotspots": [],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 3.078527989389104,
+          "pitch": 0.14606064455805523,
+          "title": "Title",
+          "text": "Lower Washout"
+        },
+        {
+          "yaw": 2.914676167920735,
+          "pitch": 0.8996354381349221,
+          "title": "Title",
+          "text": "Upper Washout- facing east"
+        }
+      ]
     },
     {
-      "id": "5-upper-washout--looking-west",
-      "name": "Upper Washout- Looking West",
+      "id": "5-upper-washout--west",
+      "name": "Upper Washout- West",
       "levels": [
         {
           "tileSize": 256,
@@ -203,8 +223,8 @@ var APP_DATA = {
       ],
       "faceSize": 3000,
       "initialViewParameters": {
-        "yaw": 2.9375412173561744,
-        "pitch": 0.5655738630576366,
+        "yaw": 2.939060897240994,
+        "pitch": 0.5253272662888122,
         "fov": 1.3518235013090278
       },
       "linkHotspots": [],
