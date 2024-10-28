@@ -142,7 +142,7 @@ var APP_DATA = {
         {
           "yaw": -0.30462390376044723,
           "pitch": 0.10096143282809678,
-          "title": "Title",
+          "title": "Mill Site",
           "text": "Mill Site"
         }
       ]
@@ -184,13 +184,13 @@ var APP_DATA = {
         {
           "yaw": 3.078527989389104,
           "pitch": 0.14606064455805523,
-          "title": "Title",
+          "title": "Lower Washout",
           "text": "Lower Washout"
         },
         {
           "yaw": 2.914676167920735,
           "pitch": 0.8996354381349221,
-          "title": "Title",
+          "title": "Upper Washout- facing east",
           "text": "Upper Washout- facing east"
         }
       ]
